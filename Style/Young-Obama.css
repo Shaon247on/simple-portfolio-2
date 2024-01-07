@@ -1,0 +1,57 @@
+*{
+    font-family: 'Bungee Spice', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oleo Script', system-ui;
+    font-family: 'Open Sans', sans-serif; 
+    margin: 20px; 
+}
+.header-section {
+    display: flex;
+    gap: 0px;
+}
+
+.profile-info {}
+
+.profile-name {
+    color:gray;
+    font-size: 50px;
+}
+/* end of header section */
+/* start of main section */
+main section{
+    margin: 30px;
+}
+.about-section{
+    display: flex;
+}
+.about-image{}
+.about-info{
+    text-align: center;
+    max-width: 750px;
+}
+.about-title{}
+.about-description{
+    text-align: justify;
+}
+/* end of about section */
+/* start of what i do section */
+.skill-info{}
+.skill-title{}
+.skill-container{
+    display: flex;
+    margin-bottom: 0px;
+
+}
+.skill-section{
+    width: 300px;
+    margin-top: 10px;
+}
+.skill-image{
+    margin-bottom: 0px;
+}
+.skill-name{
+    margin-top: 10px;
+}
+.skill-details{
+    text-align: justify;
+}
